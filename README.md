@@ -1,2 +1,2 @@
-# IONIC-Automato_Finito_Determin-stico
+# IONIC-Automato_Finito_Deterministico
 IONIC-Autômato Finito Determinístico
